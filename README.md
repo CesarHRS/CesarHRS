@@ -29,5 +29,4 @@ My name is César Henrique Resende Soares
   </br>
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarHRS&layout=compact&theme=dark" width="400"></a>
-align="top"></a>
 </p>
